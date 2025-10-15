@@ -13,7 +13,6 @@ class Command(BaseCommand):
         'category': 'reviews.Category',
         'genre': 'reviews.Genre',
         'titles': 'reviews.Title',
-        'genre_title': 'reviews.GenreTitle',
         'users': 'users.User',
         'review': 'reviews.Review',
         'comments': 'reviews.Comment',
